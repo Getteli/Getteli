@@ -11,9 +11,10 @@
 </head>
 <body class="__variable_e7970e font-inter antialiased bg-white text-gray-900 tracking-tight" data-aos-easing="ease-out-cubic" data-aos-duration="700" data-aos-delay="0">
 	<div class="Simpleflex flex-col min-h-screen overflow-hidden supports-[overflow:clip]:overflow-clip" id="home">
-		<header class="fixed w-full z-30 md:bg-opacity-90 transition duration-300 ease-in-out bg-white backdrop-blur-sm shadow-lg">
+		<header class="fixed w-full z-30 bg-opacity-90 py-3 md:py-0 ease-in-out bg-white backdrop-blur-sm shadow-lg">
 			<div class="max-w-6xl mx-auto px-5 sm:px-6">
-				<div class="flex items-center justify-between h-16 md:h-20">
+				<div class="flex items-center justify-between h-16 md:h-20 nav-header">
+					<!-- logo -->
 					<div class="shrink-0 mr-4">
 						<a class="block" aria-label="Cruip" href="/">
 							<svg class="w-8 h-8" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
@@ -28,7 +29,8 @@
 							</svg>
 						</a>
 					</div>
-					<nav class="hidden md:flex md:grow">
+					<!-- menu -->
+					<nav class="md:flex md:grow">
 						<ul class="flex grow justify-end flex-wrap items-center">
 							<li>
 								<a class="font-medium text-gray-600 hover:text-gray-900 px-5 py-3 flex items-center transition duration-150 ease-in-out" href="#home">ínicio</a>
@@ -41,17 +43,6 @@
 							</li>
 						</ul>
 					</nav>
-					<div class="flex md:hidden">
-						<button class="hamburger false" aria-controls="mobile-nav" aria-expanded="false">
-							<span class="sr-only">Menu</span>
-							<svg class="w-6 h-6 fill-current text-gray-900" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-								<rect y="4" width="24" height="2"></rect>
-								<rect y="11" width="24" height="2"></rect>
-								<rect y="18" width="24" height="2"></rect>
-							</svg>
-						</button>
-						<div></div>
-					</div>
 				</div>
 			</div>
 		</header>
@@ -119,9 +110,9 @@
 										</g>
 									</svg>
 								</div>
-								<button class="absolute top-full flex items-center transform -translate-y-1/2 bg-white rounded-full font-medium group p-4 shadow-lg" aria-controls="modal">
+								<a role="button" href="#cases" class="absolute top-full flex items-center transform -translate-y-1/2 bg-white rounded-full font-medium group p-4 shadow-lg" aria-controls="modal">
 									<span class="ml-3">Veja meus projetos</span>
-								</button>
+								</a>
 							</div>
 						</div>
 					</div>

@@ -1,5 +1,5 @@
 setTimeout(() => {
-	let links = document.querySelectorAll('li a');
+	let links = document.querySelectorAll('li,a');
 	const Methods =
 	{
 		/**
