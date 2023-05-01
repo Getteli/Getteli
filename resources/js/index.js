@@ -13,7 +13,7 @@ setTimeout(() => {
 			// rola com efeito
 			try
 			{
-				document.querySelector(a.getAttribute('href')).scrollIntoView({
+				document.querySelector(a.getAttribute('href'))?.scrollIntoView({
 					block: "start",
 					behavior: 'smooth'
 				});
