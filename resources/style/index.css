@@ -1,5 +1,131 @@
 .nav-header
 {
-    flex-flow: column;
-    margin: 0.2em 0;
+	flex-flow: column;
+	margin: 0.2em 0;
+}
+
+header
+{
+	padding-bottom: 0.7em;
+}
+
+.bg-midia
+{
+	background-image: url('../midia/background.png');
+	background-repeat: no-repeat;
+	background-size: 80%;
+	background-attachment: fixed;
+	background-position-x: 50em;
+}
+
+.center-middle
+{
+	place-self: center;
+}
+
+@media screen and (max-width: 991px)
+{
+	body
+	{
+		position: relative;
+		right: 0;
+	}
+
+	/* impedir o scroll para o lado */
+	html, body, main,
+	.navigation
+	{
+		overflow-x: hidden !important;
+		overscroll-behavior-x: none !important;
+		-webkit-overflow-scrolling-x: none !important;
+	}
+
+	.navigation,
+	.navigation > ul,
+	.navigation > ul > li,
+	.navigation > ul > li > a,
+	.navigation > ul > li > a > span
+	.navigation > *
+	{
+		overflow-y: hidden !important;
+		overscroll-behavior-y: none !important;
+		-webkit-overflow-scrolling: none !important;
+	}
+
+	.navigation
+	{
+		left: -300px;
+	}
+
+	.navigation.active
+	{
+		width: 300px;
+		left: 0;
+	}
+
+	.main
+	{
+		width: 100%;
+		left: 0;
+		right: 0;
+	}
+
+	.main.active
+	{
+		left: 300px;
+	}
+}
+
+@media screen and (max-width: 767px)
+{
+	header
+	{
+		padding-bottom: 1.7em;
+	}
+}
+
+@media screen and (max-width: 575px)
+{
+
+}
+
+@media screen and (max-width: 460px)
+{
+	.navigation
+	{
+		width: 100%;
+		left: -100%;
+		z-index: 101;
+	}
+
+	.navigation.active
+	{
+		width: 100%;
+		left: 0;
+	}
+
+	.toggle
+	{
+		z-index: 102;
+	}
+
+	.menu-toggle.active:after,.menu-toggle.active:before
+	{
+		background: var(--color-white);
+	}
+
+	.main.active
+	{
+		left: 85%;
+	}
+
+	.notify-icon.active, .notify-icon.alert-notify.active
+	{
+		right: 260px !important;
+	}
+
+	.notify-content.active
+	{
+		width: 261px;
+	}
 }
