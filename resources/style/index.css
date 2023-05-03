@@ -23,56 +23,41 @@ header
 	place-self: center;
 }
 
-@media screen and (max-width: 991px)
+.btn-effect
 {
-	body
-	{
-		position: relative;
-		right: 0;
-	}
+	filter: drop-shadow(0px 2px 4px var(--color-shadow));
+	transition: all 0.5s;
+	outline: 0;
+}
 
-	/* impedir o scroll para o lado */
-	html, body, main,
-	.navigation
-	{
-		overflow-x: hidden !important;
-		overscroll-behavior-x: none !important;
-		-webkit-overflow-scrolling-x: none !important;
-	}
+.btn-effect:hover, .btn-effect:focus,
+.btn-effect:hover > img, .btn-effect:focus > img
+{
+	transform: scale(0.95);
+	filter: none;
+	transition: all 0.5s;
+	outline: 0;
+	opacity: 1;
+	transition: ease-in-out 0.8s;
+}
 
-	.navigation,
-	.navigation > ul,
-	.navigation > ul > li,
-	.navigation > ul > li > a,
-	.navigation > ul > li > a > span
-	.navigation > *
-	{
-		overflow-y: hidden !important;
-		overscroll-behavior-y: none !important;
-		-webkit-overflow-scrolling: none !important;
-	}
+.technologys
+{
+	transition: ease-in-out 0.8s;
+	max-width: 130px;
+	width: auto;
+	height: auto;
+	max-height: 130px;
+	opacity: 0.7;
+}
 
-	.navigation
+@media screen and (max-width: 1200px)
+{
+	.bg-midia
 	{
-		left: -300px;
-	}
-
-	.navigation.active
-	{
-		width: 300px;
-		left: 0;
-	}
-
-	.main
-	{
-		width: 100%;
-		left: 0;
-		right: 0;
-	}
-
-	.main.active
-	{
-		left: 300px;
+		background-size: 160%;
+		background-attachment: fixed;
+		background-position-x: -70%;
 	}
 }
 
@@ -84,48 +69,22 @@ header
 	}
 }
 
-@media screen and (max-width: 575px)
+@media screen and (max-width: 630px)
 {
-
+	.bg-midia
+	{
+		background-size: 190%;
+		background-attachment: fixed;
+		background-position-x: -50%;
+	}
 }
 
-@media screen and (max-width: 460px)
+@media screen and (max-width: 500px)
 {
-	.navigation
+	.bg-midia
 	{
-		width: 100%;
-		left: -100%;
-		z-index: 101;
-	}
-
-	.navigation.active
-	{
-		width: 100%;
-		left: 0;
-	}
-
-	.toggle
-	{
-		z-index: 102;
-	}
-
-	.menu-toggle.active:after,.menu-toggle.active:before
-	{
-		background: var(--color-white);
-	}
-
-	.main.active
-	{
-		left: 85%;
-	}
-
-	.notify-icon.active, .notify-icon.alert-notify.active
-	{
-		right: 260px !important;
-	}
-
-	.notify-content.active
-	{
-		width: 261px;
+		background-size: 220%;
+		background-attachment: fixed;
+		background-position-x: -30%;
 	}
 }
