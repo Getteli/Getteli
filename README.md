@@ -45,7 +45,15 @@
 <br>
 
 <p>
-Formado pelo <b>SESI/SENAI</b> (técnico), graduado em ciência da computação pela <b>UniCarioca</b>. Iniciei minha carreira em <b>2017</b>. Graduado com excelência nos meus cursos, possuo perfil de liderança, gosto de mudanças e incentivar o time.<br>Sou completamente apaixonado por desenvolvimento, mas com alma de ciêntista. Gosto de propor sempre o novo e sempre que possivel, tornar o dia-dia da equipe mais automático.
+	Formado pelo <b>SESI/SENAI</b> (técnico), graduado em ciência da computação pela <b>UniCarioca</b>. Iniciei minha carreira em <b>2017</b>. Graduado com excelência nos meus cursos, possuo perfil de liderança, gosto de mudanças e incentivar o time.<br>Sou completamente apaixonado por desenvolvimento, mas com alma de ciêntista. Gosto de propor sempre o novo e sempre que possivel, tornar o dia-dia da equipe mais automático.
+	<br>
+	<b>Premiações/Partipações/Eventos</b>:
+	<ul>
+		<li>Menção honrosa - IX FECTI (Feira Estadual de Ciência, Tecnologia e Inovação) CEFET;</li>
+		<li>2° lugar -  RIO2C (Rio Creative Conference);</li>
+		<li>Convidado pelo senai para UERJ - CONITEC;</li>
+		<li>top 10 - Mega hackathon do hacktudo - Festival de cultura digital;</li>
+	</ul>
 </p>
 
 <div align="center">
