@@ -2,9 +2,9 @@
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 	<h1 align="center">Hello World 🌐</h1>
 </div>
-<p align="center"><i>Olá me chamo Douglas Araujo Silva. Desenvolvedor backend / web. Conheça mais meus projetos, meus trabalhos e minhas habilidades 🤓</i></p>
+<p><i>Olá me chamo Douglas Araujo Silva. Desenvolvedor backend / web. Conheça mais meus projetos, meus trabalhos e minhas habilidades 🤓</i></p>
 
-<div align="center">
+<div>
 	<b>BACKEND</b>
 	<br>
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -15,7 +15,7 @@
 	<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
 
-<div align="center">
+<div>
 	<b>FRONTEND</b>
 	<br>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
-<div align="center">
+<div>
 	<b>TOOLS/IDE</b>
 	<br>
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </div>
 
-<div align="center">
+<div>
 	<b>FRAMWORK</b>
 	<br>
 	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -58,9 +58,9 @@ Formado pelo <b>SESI/SENAI</b> (técnico), graduado em ciência da computação 
 	<b>GITHUB</b>
 	<br>
 	<a href="https://github.com/Getteli">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getteli&layout=compact&langs_count=7&theme=dracula"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Getteli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Getteli&theme=dracula"/>
-		<img height="180em" src="https://github-profile-trophy.vercel.app/?username=Getteli&theme=dracula"/>
+		<img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getteli&layout=compact&langs_count=7&theme=dracula"/>
+		<img height="123em" src="https://github-readme-stats.vercel.app/api?username=Getteli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+		<img height="123em" src="https://github-readme-streak-stats.herokuapp.com/?user=Getteli&theme=dracula"/>
+		<img height="270em" src="https://github-profile-trophy.vercel.app/?username=Getteli&theme=dracula"/>
 	</a>
 </div>
