@@ -2,7 +2,7 @@
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 	<h1 align="center">Hello World 🌐</h1>
 </div>
-<p><i>Olá me chamo Douglas Araujo Silva. Desenvolvedor backend / web. Conheça mais meus projetos, meus trabalhos e minhas habilidades 🤓</i></p>
+<p>Olá me chamo Douglas Araujo Silva. Desenvolvedor backend / web. Conheça mais meus projetos, trabalhos, carreira e minhas habilidades profissionais 🤓. <b><a href="https://getteli.github.io/Getteli"><i>CASES E PORTFÓLIO</i></a></b></p>
 
 <div>
 	<b>BACKEND</b>
