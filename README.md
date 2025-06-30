@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<img src="https://raw.githubusercontent.com/Getteli/Getteli/74a5bd9c93e8d5405eff238c5a6d46a3ecfc1da7/resources/midia/DG_logo%20-%20negativo.svg" width="150"/>
+	<img src="https://raw.githubusercontent.com/Getteli/Getteli/778aee812df632bf97527a566937a90dea2d0ed4/resources/midia/DG_logo-negativo.svg" width="200"/>
 	<hr/>
 </div>
 <p>Hello, my name is Douglas Araujo Silva. I am a backend/web developer. Learn more about my projects, work, career and professional skills 🤓. <b><a href="https://getteli.github.io/Getteli"><i>CASES AND PORTFOLIO</i></a></b> - gitLab profile <b><a href="https://gitlab.com/getteli"><i>HERE</i></a></b></p>
