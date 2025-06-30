@@ -1,6 +1,6 @@
 <div id="header" align="center">
-	<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="100"/>
-	<h1 align="center">Hello World 🌐</h1>
+	<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="350"/>
+	<h1 align="center">DEVELOPER 🌐</h1>
 </div>
 <p>Olá me chamo Douglas Araujo Silva. Desenvolvedor backend / web. Conheça mais meus projetos, trabalhos, carreira e minhas habilidades profissionais 🤓. <b><a href="https://getteli.github.io/Getteli"><i>CASES E PORTFÓLIO</i></a></b> - perfil no gitLab <b><a href="https://gitlab.com/getteli"><i>AQUI</i></a></b></p>
 
