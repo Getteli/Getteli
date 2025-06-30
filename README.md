@@ -1,8 +1,7 @@
 <div id="header" align="center">
-	<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="350"/>
-	<h1 align="center">DEVELOPER 🌐</h1>
+	<img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" width="400"/>
 </div>
-<p>Olá me chamo Douglas Araujo Silva. Desenvolvedor backend / web. Conheça mais meus projetos, trabalhos, carreira e minhas habilidades profissionais 🤓. <b><a href="https://getteli.github.io/Getteli"><i>CASES E PORTFÓLIO</i></a></b> - perfil no gitLab <b><a href="https://gitlab.com/getteli"><i>AQUI</i></a></b></p>
+<p>Hello, my name is Douglas Araujo Silva. I am a backend/web developer. Learn more about my projects, work, career and professional skills 🤓. <b><a href="https://getteli.github.io/Getteli"><i>CASES AND PORTFOLIO</i></a></b> - gitLab profile <b><a href="https://gitlab.com/getteli"><i>HERE</i></a></b></p>
 
 <div>
 	<b>BACKEND</b>
@@ -42,19 +41,18 @@
 <br>
 
 <p>
-	Formado pelo <b>SESI/SENAI</b> (técnico), graduado em ciência da computação pela <b>UniCarioca</b>. Iniciei minha carreira em <b>2017</b>. Graduado com excelência nos meus cursos, possuo perfil de liderança, gosto de mudanças e incentivar o time.<br>Sou completamente apaixonado por desenvolvimento, mas com alma de ciêntista. Gosto de propor sempre o novo e sempre que possivel, tornar o dia-dia da equipe mais automático.
-	<br>
-	<b>Premiações/Partipações/Eventos</b>:
+	Graduated from <b>SESI/SENAI</b> (technician), graduated in computer science from <b>UniCarioca</b>. I started my career in <b>2017</b>. Graduated with excellence in my courses, I have a leadership profile, I like changes and encouraging the team.<br>I am completely passionate about development, but with the soul of a scientist. I like to always propose something new and, whenever possible, make the team's day-to-day more automatic. <br>
+<b>Awards/Participations/Events</b>:
 	<ul>
-		<li>Menção honrosa - IX FECTI (Feira Estadual de Ciência, Tecnologia e Inovação) CEFET;</li>
-		<li>2° lugar -  RIO2C (Rio Creative Conference);</li>
-		<li>Convidado pelo senai para UERJ - CONITEC;</li>
-		<li>top 10 - Mega hackathon do hacktudo - Festival de cultura digital;</li>
+		<li>Honorable mention - IX FECTI (State Fair of Science, Technology and Innovation) CEFET;</li>
+		<li>2nd place - RIO2C (Rio Creative Conference);</li>
+		<li>Invited by SENAI to UERJ - CONITEC;</li>
+		<li>top 10 - Mega hackathon do hacktudo - Digital culture festival;</li>
 	</ul>
 </p>
 
 <div align="center">
-	<h2>Contato</h2>
+	<h2>Contacts</h2>
 	<a href="https://www.linkedin.com/in/douglas-0101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="mailto:douglas.araujo.01@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </div>
